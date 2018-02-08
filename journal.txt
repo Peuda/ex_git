@@ -1,0 +1,6 @@
+L'apprentissage de GIT
+
+Utilisateur de linux depuis presque 10 ans , je n'ai jamais vraiment pris la peine d'apprendre à utiliser GIT. 
+Aujourd'hui je m'en mords un peu les doigts ! J'ai peut être fait le malin au début, plus maintenant . Le cours a été repris depuis depuis
+le  début et j'ai effectué tous les exemples , un après l'autre ! 
+Je ne ferai pas la même erreur pour le prochain exercice :)
